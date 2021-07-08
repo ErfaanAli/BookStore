@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/BookStore/BookStore/obj
+/BookStore/.vs/BookStore/v16
+/BookStore/BookStore/bin/Debug/netcoreapp3.1
+/BookStore/BookStore/Pages
+/BookStore/BookStore/wwwroot
